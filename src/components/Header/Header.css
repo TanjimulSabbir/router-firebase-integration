@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background: rgb(16, 223, 238);
+    padding: 15px 0;
+}
+
+.header nav a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,41 @@
+form {
+    text-align: center;
+    border: rgb(248, 247, 247) 1px solid;
+    width: 320px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: #2e77a9;
+    box-shadow: #c5c8c8 5px 5px 5px 5px;
+}
+
+.input {}
+
+.input input {
+    width: 280px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    padding-left: 10px;
+    background: rgb(253, 253, 253);
+}
+
+.regBtn {
+    margin-top: 20px;
+}
+
+form a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 5px;
+    color: #000;
+}
+
+form a:hover {
+    background: rgb(251, 250, 250);
+    border: 1px rgb(250, 250, 250) solid;
+
+}
